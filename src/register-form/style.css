@@ -1,0 +1,64 @@
+section {
+    height: 100vh;
+}
+.register-container {
+    width: 22%;
+    border: none;
+    padding: 0 0 20px 0;
+    background-color: #fff;
+}
+.register-container h1 {
+    text-align: start;
+    font-size: 18px;
+    padding: 0 0 0 25px;
+    margin: 20px 0 20px 0;
+}
+.input-container {
+    column-gap: 5px;
+    flex-direction: column;
+}
+
+.input-content input {
+    width: 75%;
+}
+
+.content {
+    margin: 10px 0 0 0;
+    column-gap: 3px;
+}
+
+.content h1 {
+    margin: 0;
+    padding: 0;
+}
+
+.input-area {
+    width: 65%;
+    padding: 5px;
+    margin: 5px;
+}
+.details h1 {
+    margin: 0;
+    text-align: start;
+    padding: 0 0 0 28px;
+}
+.gender {
+    width: 70%;
+    padding: 5px;
+}
+.btn-content {
+    padding: 8px 11px;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    background-color: #8D48F0;
+}
+.primay-btn {
+    font-size: 15px;
+    padding: 5px 10px;
+    margin: 16px 0 0 0;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    background-color: #8D48F0;
+}
